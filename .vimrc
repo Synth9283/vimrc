@@ -1,3 +1,8 @@
+set autoindent
+set tabstop=4
+set shiftwidth=4
+set expandtab
+
 call plug#begin('~/.vim/plugged')
 
 Plug 'preservim/nerdtree'
