@@ -1,4 +1,5 @@
 set number
+set cinoptions=l1
 set autoindent
 set tabstop=4
 set shiftwidth=4
